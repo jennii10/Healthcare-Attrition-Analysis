@@ -1,7 +1,7 @@
 Project: Healthcare Employee Attrition Analysis
 
 Objective:
-To understand the factors affecting employee attrition in the healthcare sector and to build a predictive model for early identification of potential employee churn.
+To understand the factors affecting employee attrition in the healthcare sector.
 
 Key Steps:
 
